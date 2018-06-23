@@ -1,9 +1,26 @@
-# Manu Auto Correct
+# Alasco Auto Correct
 
-Bon alors déjà c'est M. Le Président.
+Bon alors déjà c'est Alasco ! :)
 
-![OSS 117](oss.jpg)
+![Michel_Gohou](gohou.jpg)
 
-Le meilleur moyen d'utiliser cette extension est de passer par le [Chrome Webstore](https://chrome.google.com/webstore/detail/manu-auto-correct/eamgamedjemopbnggghghnciejnbdpoe)
+## How to use it
 
-Vous pouvez aussi télécharger ce dépot et le charger comme "unpacked extension" dans Chrome
+This extension is not yet in the chrome store available.
+To use it :
+
+* Download the extension here: https://github.com/gagieci/Alasco-Auto-Correct/releases and load it in chrome
+
+* You can also download this repos and charge it as an "unpackaged extension" in chrome.
+![chrome](https://developer.chrome.com/static/images/get_started/load_extension.png)
+
+## How to build
+
+* npm install i -g crx # Install the chome extension builder cli
+* crx pack # Build , full doc here: https://github.com/oncletom/crx
+
+# Contribute
+
+TODO:
+
+* Add a nickname for our most famous politicans (Bedie, Soro...)
